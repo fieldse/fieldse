@@ -1,7 +1,6 @@
 
 ![bio-header-1900px](https://github.com/fieldse/fieldse/assets/394065/6f4f5346-c60e-432c-bbe6-956560c375b6)
 
-# Matt Fields
 
 Full-stack engineer, backend specialization, digital nomad + photographer 
 
@@ -36,7 +35,7 @@ Some technologies I use and love:
 
 ## Projects
 
-I'm currently building: `Mandarin/English Flashcards` (Next JS app for Mandarin/English flashcards-based study)
+Current side project: [`NextJS Flashcards`](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
 
 
 ## Reading stuff
