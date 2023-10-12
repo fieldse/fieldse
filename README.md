@@ -15,8 +15,9 @@ I'm Matt. I'm a software engineer from the United States, living currently in:
 ## Personal life
 
 - Digital nomad
-- Photographer, with focus on street photographyl
+- Photographer, with focus on street photography
 - Self-education fanatic
+- Martial arts enthusiast
 
 ## Work
 I do full-stack engineering, with a backend focus, for [Ruzuku, inc](https://www.ruzuku.com/).
@@ -33,22 +34,26 @@ Some technologies I use and love:
 - Node.js
 - Linux / BASH scripting & server admin stuff
 
+I also have a strong interest in information security, and am seeking work in this area.
+
 ## Projects
 
 Current side project: [`NextJS Flashcards`](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
 
 
 ## Reading stuff
-I'm currently reading: 
-`Building from Broken` - https://saltwrap.com/pages/built-from-broken/
+Currently reading: 
+[`Building from Broken`](https://saltwrap.com/pages/built-from-broken/)
 
 Recent reading and interests list:
 - longevity and healthspan extension
 - geopolitics (China & US politics focus)
 - information security (CompTIA Security+)
+- (... and a billion other things)
 
 
 ## Studying
+
 Currently studying: [`CompTIA Security+ (SY0-601) Complete Course & Exam`](https://www.udemy.com/course/securityplus/) 
 
 ## Links & social stuff
@@ -58,5 +63,7 @@ Currently studying: [`CompTIA Security+ (SY0-601) Complete Course & Exam`](https
 
 
 ## Contact
-I'm currently seeking work! 
+
+I'm looking for work! 
+
 Reach out to me: [matt@mattfields.dev](mailto:matt@mattfields.dev)
