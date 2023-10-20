@@ -37,7 +37,12 @@ I also have a strong interest in information security, and am seeking work in th
 
 ## Projects
 
-Current side project: [`NextJS Flashcards`](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
+Current side project: 
+- [`NextJS Flashcards`](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
+
+
+DevSecOps notes
+- [DevSecOps Notes](https://github.com/fieldse/dev-sec-notes) - DevSec notes for study for the CompTIA+ exam
 
 ## Reading stuff
 
@@ -55,14 +60,15 @@ Recent reading and interests list:
 
 Currently studying: [`CompTIA Security+ (SY0-601) Complete Course & Exam`](https://www.udemy.com/course/securityplus/)
 
-## Links & social stuff
+## Contact 
+I'm looking for work!
+
+Reach out to me: [matt@mattfields.dev](mailto:matt@mattfields.dev)
+
+Social stuff
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin icon" height=25 valign="bottom" /> [LinkedIn](https://www.linkedin.com/in/matt-fields-ab4084290/)
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github icon" height=25 valign="bottom" /> [Github](https://github.com/fieldse/)
 - [Instagram](https://www.instagram.com/mattfields.photo/)
 
-## Contact
 
-I'm looking for work!
-
-Reach out to me: [matt@mattfields.dev](mailto:matt@mattfields.dev)
