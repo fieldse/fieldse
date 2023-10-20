@@ -38,7 +38,7 @@ I also have a strong interest in information security, and am seeking work in th
 ## Projects
 
 Current side project: 
-- [`NextJS Flashcards`](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
+- [NextJS Flashcards](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
 
 
 DevSecOps notes
