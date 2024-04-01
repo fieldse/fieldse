@@ -12,9 +12,9 @@ I'm Matt. I'm a software engineer from the United States, living currently in:
 
 ## Work
 
-Currently I'm a Fullstack Bootcamp curriculum designer and instructor at [Metana.io](https://metana.io)
+Currently doing: Fullstack Bootcamp curriculum designer and instructor at [Metana.io](https://metana.io)
 
-Prior experience includes 6.5 years as a full-stack engineer for [Ruzuku, inc](https://www.ruzuku.com/).
+Prior experience: 6+ years as a Full-stack engineer for [Ruzuku, inc](https://www.ruzuku.com/).
 
 ## Personal life
 
