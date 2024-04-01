@@ -21,8 +21,9 @@ Prior experience includes 6.5 years as a full-stack engineer for [Ruzuku, inc](h
 - Digital nomad
 - Cybersecurity student at [TAFE Queensland](https://tafeqld.edu.au/)
 - Street photographer and Fujifilm fanatic
-- Autodidact, avid reader, & multilingual
-- Martial arts practitioner
+- Autodidact, avid reader, & Mandarin fluent
+- Chess player
+- Martial artist
 
 ## Technologies
 
