@@ -1,29 +1,33 @@
 ![bio-header-1900px](https://github.com/fieldse/fieldse/assets/394065/6f4f5346-c60e-432c-bbe6-956560c375b6)
 
-Full-stack engineer, backend specialization, digital nomad + photographer
+Full-stack engineer, backend specialization / cybersecurity / bootcamp instructor / AWS certified / CompTIA Security+ certified 
 
 ## About me
 
 Hi there 👋
 
-I'm Matt. I'm a software engineer from the United States, living currently in:
+I'm Matt. I'm a software engineer and instructor from the United States, living currently in:
 
 📍 `Brisbane, Queensland, Australia`
 
-## Work
+## Work / Study
 
-Currently doing: Fullstack Bootcamp curriculum designer and instructor at [Metana.io](https://metana.io)
+### Study / Certifications
+- [TAFE Queensland: Cybersecurity Cert IV](https://tafeqld.edu.au/))  (completed)
+- [CompTIA Security+ SY0-701](https://www.comptia.org/certifications/security) (completed)
 
-Prior experience: 6+ years as a Full-stack engineer for [Ruzuku, inc](https://www.ruzuku.com/).
+### Experience: 
+- Ruzuku:  6+ years as a Full-stack engineer for [Ruzuku, inc](https://www.ruzuku.com/)
+- Metana: Fullstack instructor and bootcamp designer for [Metana.io](https://metana.io)
 
 ## Personal life
 
 - Digital nomad
-- Cybersecurity student at [TAFE Queensland](https://tafeqld.edu.au/)
+- Penetration testing noob @ [hackthebox.com](hackthebox.com)
 - Street photographer and Fujifilm fanatic
-- Autodidact, avid reader, & Mandarin fluent
-- Chess player
-- Martial artist
+- Autodidact, avid reader
+- Mandarin fluent / East asia traveler / Martial artist
+
 
 ## Technologies
 
@@ -37,16 +41,19 @@ Some technologies I use and love:
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=25 /> Node.js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=25 /> Linux / BASH scripting
 
-I also have a strong interest in information security, and am seeking work in this area.
+I also have a strong interest in cybersecurity, and am seeking work transition into the field.
 
 ## Projects
 
-Current side projects: 
+Recent projects: 
+- [Vulnerable REST API](https://github.com/fieldse/vulnerable-rest-api) - Intentionally vulnerable REST API for pentesting practice
+- [Vulnerable Express app](https://github.com/fieldse/vulnerable-express-site) - Intentionaly vulnerable Node + Express app site 
 - [Chrome browser Custom homepage](https://github.com/fieldse/custom-chrome-new-tab-page) - Custom homepage extension for Chrome & Brave browsers
 - [NextJS Flashcards](https://github.com/fieldse/nextjs-flashcards) - a Next.JSbased app for English flashcards for Mandarin speakers.
 
 
-DevSecOps notes
+Cybersecurity notes
+- [Pentesting notes](https://github.com/fieldse/pentest-notes) - Useful cheatsheet notes for pentesting
 - [DevSecOps Notes](https://github.com/fieldse/dev-sec-notes) - DevSec notes for study for the CompTIA+ exam
 
 ## Reading stuff
@@ -54,18 +61,12 @@ DevSecOps notes
 Currently reading:
 [`Building from Broken`](https://saltwrap.com/pages/built-from-broken/) - Deep dive into rebuilding damaged body structures, and functional mobility.
 
-Recent reading and interests list:
+Recent reading and niche interests:
 
 - longevity and healthspan extension
 - geopolitics (China & US politics focus)
 - information security (CompTIA Security+)
-- (... and 1.5 billion other things)
 
-## Studying
-
-Currently studying: 
-- [`Certificate IV in Technology: Cybersecurity at TAFE Queensland`](https://tafeqld.edu.au/course/18/18451/certificate-iv-in-cyber-security)
-- [`CompTIA Security+ (SY0-601) Complete Course & Exam`](https://www.udemy.com/course/securityplus/)
 
 ## Contact 
 I'm looking for work!
